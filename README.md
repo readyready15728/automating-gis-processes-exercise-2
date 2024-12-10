@@ -1,3 +1,13 @@
+# Student's Note
+
+I was able to complete the exercise by creating a `venv`, activating the same `venv` then starting `jupyter lab` in the appropriate directory, after running the following:
+
+```sh
+pip install myst-nb sphinx sphinx-book-theme jupyterlab jupyterlab-git bokeh folium geojson geopandas geopy matplotlib osmnx pyrosm r5py
+```
+
+If you run into any difficulties, feel free to file an issue or contact me at readyready15728@gmail.com.
+
 # Exercise 2: Using geopandas to handle spatial data sets
 
 This week we will practice how to create geometry objects, 
@@ -10,16 +20,6 @@ using [geopandas](https://geopandas.org/).
   exercise](https://autogis-site.readthedocs.io/en/latest/lessons/lesson-2/exercise-2.html#hints)
 
 - Scores on this exercise are out of **20 points**.
-
-# Student's Note
-
-I was able to complete the exercise by creating a `venv`, activating the same `venv` then starting `jupyter lab` in the appropriate directory, after running the following:
-
-```sh
-pip install myst-nb sphinx sphinx-book-theme jupyterlab jupyterlab-git bokeh folium geojson geopandas geopy matplotlib osmnx pyrosm r5py
-```
-
-If you run into any difficulties, feel free to file an issue or contact me at readyready15728@gmail.com.
 
 ## Notes
 
